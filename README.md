@@ -18,12 +18,12 @@
 
 
 
-I like to train Machine learning Models for Humans . 
+
 - :telescope:I am **Akshay Jagtap** currently studying B.TECH Artificial intelligence and data science (2nd Year).
 
 - :seedling: I like to train Machine learning Models for Humans . 
 
-- :zap: In my free time, I solve problems on Hacker Rank and read tech articles.
+- :zap: In my free time, I solve problems on Hacker Rank , read tech articles and i play computer games .
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshayjagtxp/) [![gmail baddge]( https://img.shields.io/badge/Mail-Akshay-red)](mailto:jagtapakshay90@gmail.com)
   
